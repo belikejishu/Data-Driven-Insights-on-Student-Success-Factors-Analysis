@@ -1,5 +1,7 @@
 # Data-Driven-Insights-on-Student-Success-Factors-Analysis
 
+![Capture](https://github.com/user-attachments/assets/9313bd5d-007d-4641-a358-149651d3ea1d)
+
 **Project Overview**
 
 This project provides a comprehensive analysis of student participation and success factors across various educational events, focusing on fields like Data Science, Data Visualization, Artificial Intelligence, Machine Learning, and Deep Learning. The goal is to derive actionable insights into how different factors, such as CGPA, family income, and experience with Python, impact students' career aspirations, expected salaries, and academic outcomes. The project also identifies which promotion channels are most effective in driving student participation.
